@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("haikldjfsfsdf===")
         print("haikldjfsfsdf===FGDFGSDFGSDF")
+        print("haikldjfsfsdf===etrter")
+
         // Do any additional setup after loading the view.
     }
 
